@@ -1,6 +1,6 @@
 Yuanming Song (ysong33)
 
-2.7.2 Socket Programming with TCP
+Socket Programming with TCP: socket-based programs that simulate sealed-bid auctions
 
 references:
 #### https://beej.us/guide/bgnet/html/
